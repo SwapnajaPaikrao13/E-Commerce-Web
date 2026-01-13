@@ -166,6 +166,4 @@ Frontend runs on: `http://localhost:5173`
 
 B.Tech Computer Science
 
----
 
-✅ *This project is ready for submission.*
